@@ -1,0 +1,6 @@
+[programs.mainnet]
+litcoin_final = "6ABQvzsWktHyiZR4BLB4AZ4e2ARDgeXzCkT8fneQd5PN"
+
+[provider]
+cluster = "mainnet"
+wallet = "~/.config/solana/id.json"
